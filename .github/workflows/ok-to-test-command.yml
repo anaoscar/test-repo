@@ -5,7 +5,7 @@ on:
     types: [ok-to-test-command]
 jobs:
   integration_test_cases:
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
     strategy:
       max-parallel: 1
       matrix:
