@@ -1,11 +1,1 @@
-pip~=21.3.1
-ipaddress~=1.0.23
-setuptools~=44.1.1
-ansible~=5.0.1
-requests~=2.26.0
-black==21.7b0
-flake8==4.0.1
-isort==5.9.3
-coverage==4.5.4
-shyaml==0.6.2
-markupsafe==2
+malpy-0.1.0.tar.gz
