@@ -1,0 +1,5 @@
+setup.py
+malpy.egg-info/PKG-INFO
+malpy.egg-info/SOURCES.txt
+malpy.egg-info/dependency_links.txt
+malpy.egg-info/top_level.txt
